@@ -34,7 +34,7 @@ export default {
   name: 'Todolist',
   data () {
     return {
-      title: 'Lista de tarefas',
+      title: 'Lista de compras da Gagau',
       task: '',
       list: []
     }
